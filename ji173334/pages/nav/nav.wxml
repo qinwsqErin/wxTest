@@ -1,0 +1,5 @@
+<!--pages/nav/nav.wxml-->
+<br/>
+<navigator url= "../Guess/guess">猜数字</navigator>
+<navigator  url="../Message Board/message board">留言板</navigator>
+<navigator  url='../Calculator/calculator'>计算器</navigator>

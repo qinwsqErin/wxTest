@@ -27,7 +27,7 @@ style="width: 217px;" mode ="widthFix"></image>
 </view>-->
 
 <view class="tr">
-<navigator url='../index/index'>
+<navigator url='../nav/nav'>
 <image src="../../images/home2_r5_c1.gif"
 style="width: 76px;" mode ="widthFix"></image></navigator>
 <navigator  url='../lists/lists'>
