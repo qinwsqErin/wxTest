@@ -1,0 +1,22 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/table/table",
+    "pages/lists/lists",
+    "pages/orders/orders",
+    "pages/Login/login",
+    "pages/Tools/tools",
+    "pages/Message Board/message board",
+    "pages/Calculator",
+    "pages/Calculator/calculator",
+    "pages/Guess",
+    "pages/Guess/guess"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "毒APP",
+    "navigationBarTextStyle": "black"
+  }
+}

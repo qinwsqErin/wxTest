@@ -1,0 +1,5 @@
+<!--pages/Calculator/calculator.wxml-->
+<text>请输入1-10之间的数字</text>
+<input type='digit' value="{{da}}" bindinput='daInput' placeholder="在这里输入你猜得答案"/>
+<view class='tr'><button size='mini' bindtap='tjda'></button></view>
+<text>提示：{{inputValue}}</text>
